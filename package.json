@@ -1,0 +1,19 @@
+{
+  "name": "project-7-heart-trail-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakhecs/project-7-heart-trail-animation.git"
+  },
+  "author": "cj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakhecs/project-7-heart-trail-animation/issues"
+  },
+  "homepage": "https://github.com/jakhecs/project-7-heart-trail-animation#readme"
+}
